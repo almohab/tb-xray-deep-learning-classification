@@ -1,5 +1,5 @@
-tb-xray-deep-learning-classification
 Deep Learning Models for Tuberculosis Classification from Chest X-ray Images (Master Thesis)
+
 Tuberculosis Classification Using Deep Learning
 
 This repository contains the implementation of deep learning models for tuberculosis classification from chest X-ray images.
@@ -13,14 +13,6 @@ Models Implemented
 - MobileNetV2
 - DenseNet201
 - InceptionV3
-
- Dataset
-
-The datasets used in this study are publicly available chest X-ray datasets:
-
-- Montgomery County X-ray Set
-- Shenzhen Hospital X-ray Set
-- NIH Chest X-ray Dataset
 
  Features
 
